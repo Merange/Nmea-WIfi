@@ -11,4 +11,3 @@ My project is based on a project made for an RS232 hardware interface and an ESP
 
 I use Software COM to get the information from the NMEA.
 
-The project works fine except for Raymarine C90W panels.
